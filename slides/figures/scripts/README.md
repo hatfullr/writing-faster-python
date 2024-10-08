@@ -1,0 +1,1 @@
+This directory contains scripts which were used to generate figures.
